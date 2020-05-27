@@ -1,0 +1,26 @@
+---
+layout: post
+title: 'Acknowledgments '
+date: '2014-06-16T02:10:15-07:00'
+tags: []
+tumblr_url: https://seanjtaylor.tumblr.com/post/88935131757/acknowledgments
+redirect_from: /post/88935131757/acknowledgments
+---
+The following is an excerpt from [my dissertation](https://www.dropbox.com/s/hsqc2pqs2rhqz9x/published_version.pdf). It felt sad burying all my gratitude in a gigantic research document that not many people will read. To all the amazing people in my life that aren’t mentioned here: this was written somewhat (very) hastily and I’m (probably) grateful to you as well :)
+
+<!-- more -->
+
+At the end, graduate school felt like [Zeno’s dichotomy paradox](http://en.wikipedia.org/wiki/Zeno's_paradoxes#Dichotomy_paradox). In order to get halfway to finish, I had to get halfway to that halfway point. In order to get there, I must have gone halfway once again. So there were thousands of tiny steps that were perhaps forgettable at the time, but comprised something much greater in aggregate. I took most of those infinitesimal steps with someone’s help, which makes it difficult to properly acknowledge all the people who made it possible for me to achieve the most ambitious and important thing I have ever undertaken. I will do my best here.
+
+My family has been a constant source of motivation, and most importantly, got me to the starting line of this endeavor with all the tools I needed to succeed. I have the most incredible parents I could imagine and I owe my intellectual curiosity to their emphasis on education and my ambitiousness to their unwavering support. To my brother and sisters: I’m proud to be your older brother and I’ll always be more impressed with the things you accomplish than anything I do myself.
+
+There’s a social support system built into graduate school – dozens of people who I experienced tribulations and triumphs with over the past few years. They’ve become friends for life. There are too many to mention here, but my biggest thanks go to my officemates [Lauren Rhue](http://laurenrhue.com/), [Beibei Li](http://www.andrew.cmu.edu/user/beibeili/), and [Jing Wang](http://pages.stern.nyu.edu/~jwang5/), as well as my study-break partners, [Erin Smith](http://erinesmith.com/) and [Jason Hong](https://sites.google.com/site/jhong915/home). I can’t imagine doing something like this without people as amazing as you all to share it with. To my friends who weren’t in grad school with me but were there by my side during it: thank you for dragging me out to drinks, on trips, and to all those weddings. Thanks also for picking up the check now and again when I had experienced a larger-than-expected expense shock.
+
+The&nbsp;[Information Systems group at NYU](http://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept/), characteristic of IS community in general, was an amazing resource and a perfect fit for my interests (although I perhaps did not know that in advance). I thank them for knowing that I would fit well in their program and for providing a stimulating academic environment in which I could thrive. In particular I would like to thank [Arun Sundararajan](http://oz.stern.nyu.edu/),[Natalia Levina](http://people.stern.nyu.edu/nlevina/), [Vasant Dhar](http://people.stern.nyu.edu/vdhar/), [Panos Ipeirotis](http://www.ipeirotis.com/), and [Sonny Tambe](http://pages.stern.nyu.edu/~ptambe/) for their open office doors and mentorship.
+
+Many impressive people at [Facebook](http://facebook.com/data) – too many to list here – contributed to the quality of the work in this dissertation and made my life a lot more fun for a year during graduate school. Two in particular, [Eytan Bakshy](http://eytan.github.io/) and[Dean Eckles](http://www.deaneckles.com/), are like the academic brothers I was separated from at (academic) birth. They’ve been as supportive (and sometimes as hard on me) as brothers as well. I hope to continue collaborating with them long into my “stodgy old scientist” days.
+
+My committee members, [Anindya Ghose](http://people.stern.nyu.edu/aghose/), [Foster Provost](http://people.stern.nyu.edu/fprovost/), and [Duncan Watts](http://research.microsoft.com/en-us/people/duncan/), went above and beyond what I could have expected. I thank them all for their support, kind criticism, and lenience with due dates. I hope that someday I am able to collaborate more directly with each one of them.
+
+I remember meeting my advisor, [Sinan Aral](http://web.mit.edu/sinana/www/), for the first time and realizing he had actually read the research statement in my graduate school application. It was terrifying to be pushed on my ideas and realize the high standard of thinking for which I had signed up. But Sinan was then – and has always been – supportive of what I think and constructive in his feedback. Hundreds more discussions like that in his office comprise much of my learning in graduate school. The only pressure I ever felt from him was through the notion that good ideas and important questions deserve hard work. His attitude brought deep meaning to the research I was doing and made it easier to push through the setbacks. I can’t thank him enough for all this and too many other ways he’s gone beyond what I could have ever reasonably asked for from an advisor.
+

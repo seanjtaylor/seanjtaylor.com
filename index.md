@@ -1,3 +1,0 @@
----
-title: Sean J. Taylor
----
