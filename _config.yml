@@ -8,7 +8,7 @@ github_username:  seanjtaylor
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 # Setup
 plugins: [jekyll-redirect-from]
