@@ -18,7 +18,7 @@ Here are some useful links:
 ## Background
 
 - [Currently](https://www.linkedin.com/in/seanjtaylor/) I'm head of the Rideshare Labs team at [Lyft](https://www.lyft.com/).
-- 2012-2019, I was a research scientist and manager on Facebook’s [Core Data Science Team](https://rerearch.fb.com/teams/core-data-science/).
+- 2012-2019, I was a research scientist and manager on Facebook’s [Core Data Science Team](https://research.fb.com/teams/core-data-science/).
 - 2008-2013, I was a Ph.D. student at NYU's Stern School of Business, concentrating in [Information Systems](https://en.wikipedia.org/wiki/Information_system#The_academic_discipline). My dissertation was titled [Social Influence from Online Social Signals](https://www.dropbox.com/s/hsqc2pqs2rhqz9x/published_version.pdf). My advisor was [Sinan Aral](http://web.mit.edu/sinana/www/).
 - 2006-2008, I was a software engineer at [Matrix Group, International](https://www.matrixgroup.net/).
 - 2004-2006, I was a research assistant at the [Federal Reserve Board](https://www.federalreserve.gov/).
