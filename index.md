@@ -62,7 +62,7 @@ Here are some of my social science papers. Almost all papers are field experimen
 
 Here are some of my papers on experimentation and statistics. I'm relatively new to this field and mostly a consumer of statistics research, rather than a producer.
 
-- [Variance-Weighted Estimators to Improve Sensitivity in Online Experiments](https://dl.acm.org/doi/10.1145/3391403.3399542) (EC 2020) [(pdf)](https://www.dropbox.com/s/1i9vxlslel3xt44/EC_2020.pdf?dl=0). You can watch [a presentation](https://www.youtube.com/watch?v=kgIwougeN0M) by my co-author [Kevin Liou](https://www.linkedin.com/in/kevinycliou/).
+- [Variance-Weighted Estimators to Improve Sensitivity in Online Experiments](https://dl.acm.org/doi/10.1145/3391403.3399542) (EC 2020) [(pdf)](https://www.dropbox.com/s/dcft3h0pw304gbx/EC_2020.pdf?dl=0). You can watch [a presentation](https://www.youtube.com/watch?v=kgIwougeN0M) by my co-author [Kevin Liou](https://www.linkedin.com/in/kevinycliou/).
 - [Randomized experiments to detect and estimate social influence in networks](https://arxiv.org/pdf/1709.09636.pdf)  (Complex Spreading Phenomena in Social Systems). This is a book chapter with my friend [Dean Eckles](https://www.deaneckles.com/).
 - [Active Matrix Factorization for Surveys](https://arxiv.org/abs/1902.07634) (Forthcoming in Annals of Applied Statistics)
 - [Forecasting at Scale](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1380080?journalCode=utas20&) (The American Statistician) [(pdf)](http://lethalletham.com/ForecastingAtScale.pdf)
