@@ -25,8 +25,10 @@ Here are some useful links:
 - 2000-2004, I was an undergraduate at The University of Pennsylvania. I studied Economics, Finance, and Information Systems. 
 - I grew up in Philadelphia and I'm a [huge Eagles fan](https://www.youtube.com/watch?v=qW1xbhW2PEE).
 
-## Some (mostly old!) media
+## Videos and Podcasts
 
+
+- [My Keynote](https://www.youtube.com/watch?v=oTeygIetj34) at the [2020 Causal Data Science Meeting](https://causalscience.org/)
 - [A short talk about Prophet](https://www.youtube.com/watch?v=pOYAXv15r3A)
 - [Another talk about Prophet](https://www.youtube.com/watch?v=OaTAe4W9IfA) at StanCon, with my friend [Ben Letham](http://lethalletham.com/).
 - [Interview on the Casual Inference Podcast](https://casualinfer.libsyn.com/causal-inference-for-data-science-with-sean-taylor) 
@@ -64,7 +66,7 @@ Here are some of my papers on experimentation and statistics. I'm relatively new
 
 - [Variance-Weighted Estimators to Improve Sensitivity in Online Experiments](https://dl.acm.org/doi/10.1145/3391403.3399542) (EC 2020) [(pdf)](https://www.dropbox.com/s/dcft3h0pw304gbx/EC_2020.pdf?dl=0). You can watch [a presentation](https://www.youtube.com/watch?v=kgIwougeN0M) by my co-author [Kevin Liou](https://www.linkedin.com/in/kevinycliou/).
 - [Randomized experiments to detect and estimate social influence in networks](https://arxiv.org/pdf/1709.09636.pdf)  (Complex Spreading Phenomena in Social Systems). This is a book chapter with my friend [Dean Eckles](https://www.deaneckles.com/).
-- [Active Matrix Factorization for Surveys](https://arxiv.org/abs/1902.07634) (Forthcoming in Annals of Applied Statistics)
+- [Active Matrix Factorization for Surveys](https://projecteuclid.org/euclid.aoas/1600454862) (Annals of Applied Statistics)
 - [Forecasting at Scale](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1380080?journalCode=utas20&) (The American Statistician) [(pdf)](http://lethalletham.com/ForecastingAtScale.pdf)
 
 
