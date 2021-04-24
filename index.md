@@ -27,8 +27,8 @@ Here are some useful links:
 
 ## Videos and Podcasts
 
-
-- [My Keynote](https://www.youtube.com/watch?v=oTeygIetj34) at the [2020 Causal Data Science Meeting](https://causalscience.org/)
+- [Learning Bayesian Statistics Podcast](https://www.learnbayesstats.com/episode/37-prophet-time-series-causal-inference-sean-taylor) episode with [Alex Andorra](https://twitter.com/alex_andorra).
+- [My Keynote](https://www.youtube.com/watch?v=oTeygIetj34) entitled "In Defense of Curve Fitting" at the [2020 Causal Data Science Meeting](https://causalscience.org/)
 - [A short talk about Prophet](https://www.youtube.com/watch?v=pOYAXv15r3A)
 - [Another talk about Prophet](https://www.youtube.com/watch?v=OaTAe4W9IfA) at StanCon, with my friend [Ben Letham](http://lethalletham.com/).
 - [Interview on the Casual Inference Podcast](https://casualinfer.libsyn.com/causal-inference-for-data-science-with-sean-taylor) 
