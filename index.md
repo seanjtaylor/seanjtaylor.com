@@ -17,7 +17,7 @@ Here are some useful links:
 
 ## Background
 
-- [Currently](https://www.linkedin.com/in/seanjtaylor/) I'm head of the Rideshare Labs team at [Lyft](https://www.lyft.com/).
+- [Currently](https://www.linkedin.com/in/seanjtaylor/) I'm a data scientist in the Rideshare Labs team at [Lyft](https://www.lyft.com/).
 - 2012-2019, I was a research scientist and manager on Facebook’s [Core Data Science Team](https://research.fb.com/teams/core-data-science/).
 - 2008-2013, I was a Ph.D. student at NYU's Stern School of Business, concentrating in [Information Systems](https://en.wikipedia.org/wiki/Information_system#The_academic_discipline). My dissertation was titled [Social Influence from Online Social Signals](https://www.dropbox.com/s/hsqc2pqs2rhqz9x/published_version.pdf). My advisor was [Sinan Aral](http://web.mit.edu/sinana/www/).
 - 2006-2008, I was a software engineer at [Matrix Group, International](https://www.matrixgroup.net/).
@@ -27,6 +27,10 @@ Here are some useful links:
 
 ## Videos and Podcasts
 
+- [Interview on The Data Exchange Podcast](https://thedataexchange.media/the-evolution-of-the-data-science-role-and-of-data-science-tools/) with [Ben Lorica](https://twitter.com/bigdata) and [Jenn Webb](https://www.linkedin.com/in/jennwebb/)
+- [When do we actually need Causal Inference](https://youtu.be/2dv7NrYExzo?t=572) talk at the [New York Open Statistical Programming Meetup](https://nyhackr.org/)
+- [TWIML Interview on Causal Models in Practice](https://twimlai.com/causal-models-in-practice-at-lyft-with-sean-taylor/) with [Sam Charrington](https://twitter.com/samcharrington)
+- [Interview on the Gradient Dissent Podcast](https://www.youtube.com/watch?v=ceCQh73dU98) with [Lukas Biewald](https://www.linkedin.com/in/lbiewald/)
 - [Learning Bayesian Statistics Podcast](https://www.learnbayesstats.com/episode/37-prophet-time-series-causal-inference-sean-taylor) episode with [Alex Andorra](https://twitter.com/alex_andorra).
 - [My Keynote](https://www.youtube.com/watch?v=oTeygIetj34) entitled "In Defense of Curve Fitting" at the [2020 Causal Data Science Meeting](https://causalscience.org/)
 - [A short talk about Prophet](https://www.youtube.com/watch?v=pOYAXv15r3A)
@@ -53,7 +57,7 @@ Here are some data science posts I've written:
 
 Here are some of my social science papers. Almost all papers are field experiments on online social platforms.
 
-- [Displaying things in common to encourage friendship formation: A large randomized field experiment](https://link.springer.com/article/10.1007/s11129-020-09224-9) (Quantitative Marketing and Economics)
+- [Displaying things in common to encourage friendship formation: A large randomized field experiment](https://link.springer.com/article/10.1007/s11129-020-09224-9) (Quantitative Marketing and Economics) [(pdf of conference version)](https://arxiv.org/abs/1905.02762)
 - [Characterizing online public discussions through patterns of participant interactions](https://dl.acm.org/doi/abs/10.1145/3274467) (CSCW 2018)
 - [Social Influence Bias: A Randomized Experiment](https://science.sciencemag.org/content/341/6146/647.abstract) (Science)
 - [Discussion quality diffuses in the digital public square](https://dl.acm.org/doi/abs/10.1145/3038912.3052666) (WWW 2017)
