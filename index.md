@@ -9,6 +9,7 @@ I am a [data scientist](#data-science), [social scientist](#social-science), [st
 
 Here are some useful links:
 
+- [Motif Analytics](https://www.motifanalytics.com) (my startup)
 - [Twitter](https://twitter.com/seanjtaylor)
 - [Sign up for my newsletter](https://notes.causal.engineering)
 - [Github](https://github.com/seanjtaylor)
@@ -18,8 +19,8 @@ Here are some useful links:
 
 ## Background
 
-- [2022-] I am taking some open-ended time off.
-- [2019-2022](https://www.linkedin.com/in/seanjtaylor/) I was a data scientist on the Rideshare Labs team at [Lyft](https://www.lyft.com/).
+- [2022-Present] I'm a co-founder and chief scientist at [Motif Analytics](https://www.motifanalytics.com) [Read more here!](https://motifanalytics.medium.com/bringing-more-causality-to-analytics-d378108bb15)
+- [2019-2022](https://www.linkedin.com/in/seanjtaylor/) I was a data scientist and manager on the Rideshare Labs team at [Lyft](https://www.lyft.com/).
 - 2012-2019, I was a research scientist and manager on Facebook’s [Core Data Science Team](https://research.fb.com/teams/core-data-science/).
 - 2008-2013, I was a Ph.D. student at NYU's Stern School of Business, concentrating in [Information Systems](https://en.wikipedia.org/wiki/Information_system#The_academic_discipline). My dissertation was titled [Social Influence from Online Social Signals](https://www.dropbox.com/s/hsqc2pqs2rhqz9x/published_version.pdf). My advisor was [Sinan Aral](http://web.mit.edu/sinana/www/).
 - 2006-2008, I was a software engineer at [Matrix Group, International](https://www.matrixgroup.net/).
@@ -29,6 +30,7 @@ Here are some useful links:
 
 ## Videos and Podcasts
 
+- [Causal Inference and Sequence Data](https://www.youtube.com/watch?v=1W3PIwhfMsg&feature=youtu.be) on the [Super Data Science podcast](https://www.superdatascience.com/podcast)
 - [The Relationship between Experimentation and Causal Inference](https://www.youtube.com/watch?v=5Myw5A-ZILs) talk at the Nubank Data Science meetup.
 - [Causal Inference Approach to Matching in Two-Sided Marketplaces](https://www.youtube.com/watch?v=0udCtHT0kGk)
 - [Interview on The Data Exchange Podcast](https://thedataexchange.media/the-evolution-of-the-data-science-role-and-of-data-science-tools/) with [Ben Lorica](https://twitter.com/bigdata) and [Jenn Webb](https://www.linkedin.com/in/jennwebb/)
@@ -49,6 +51,7 @@ Here are some useful links:
 
 Here are some data science posts I've written:
 
+- [Bringing more causality to data science](https://motifanalytics.medium.com/bringing-more-causality-to-analytics-d378108bb15)
 - [Locally Optimal](https://notes.causal.engineering/archive/locally-optimal/)
 - [Designing and Evaluating Metrics](https://medium.com/@seanjtaylor/designing-and-evaluating-metrics-5902ad6873bf)
 - [The Personality Space of Cartoon Characters](https://medium.com/@seanjtaylor/the-personality-space-of-cartoon-characters-e1d7b2009c15)
