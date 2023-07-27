@@ -30,13 +30,16 @@ Here are some useful links:
 
 ## Videos and Podcasts
 
-- [Causal Inference and Sequence Data](https://www.youtube.com/watch?v=1W3PIwhfMsg&feature=youtu.be) on the [Super Data Science podcast](https://www.superdatascience.com/podcast)
+- [What's New in Data?](https://open.spotify.com/episode/4Bt2oPRI2PlhPXUtHmKMja?si=Nribl563SOmOmbN3tducDA) podcast with [John Kutay](https://www.linkedin.com/in/johnkutay/).
+- [When not to use SQL](https://www.youtube.com/watch?v=t6m9z874SLM&t=2s) a talk at [NormConf](https://normconf.com).
+- [Minimum Viable Experimentation](https://open.spotify.com/episode/1PO8uLXraYFmEJUGs3mYDW?si=FIBcMvu_RuisrQjkeRmRTQ) on the [Analytics Engineering Podcast](https://roundup.getdbt.com/s/the-analytics-engineering-podcast)
+- [Causal Inference and Sequence Data](https://www.youtube.com/watch?v=1W3PIwhfMsg&feature=youtu.be) on the [Super Data Science podcast](https://www.superdatascience.com/podcast).
 - [The Relationship between Experimentation and Causal Inference](https://www.youtube.com/watch?v=5Myw5A-ZILs) talk at the Nubank Data Science meetup.
-- [Causal Inference Approach to Matching in Two-Sided Marketplaces](https://www.youtube.com/watch?v=0udCtHT0kGk)
-- [Interview on The Data Exchange Podcast](https://thedataexchange.media/the-evolution-of-the-data-science-role-and-of-data-science-tools/) with [Ben Lorica](https://twitter.com/bigdata) and [Jenn Webb](https://www.linkedin.com/in/jennwebb/)
-- [When do we actually need Causal Inference](https://youtu.be/2dv7NrYExzo?t=572) talk at the [New York Open Statistical Programming Meetup](https://nyhackr.org/)
-- [TWIML Interview on Causal Models in Practice](https://twimlai.com/causal-models-in-practice-at-lyft-with-sean-taylor/) with [Sam Charrington](https://twitter.com/samcharrington)
-- [Interview on the Gradient Dissent Podcast](https://www.youtube.com/watch?v=ceCQh73dU98) with [Lukas Biewald](https://www.linkedin.com/in/lbiewald/)
+- [Causal Inference Approach to Matching in Two-Sided Marketplaces](https://www.youtube.com/watch?v=0udCtHT0kGk).
+- [Interview on The Data Exchange Podcast](https://thedataexchange.media/the-evolution-of-the-data-science-role-and-of-data-science-tools/) with [Ben Lorica](https://twitter.com/bigdata) and [Jenn Webb](https://www.linkedin.com/in/jennwebb/).
+- [When do we actually need Causal Inference](https://youtu.be/2dv7NrYExzo?t=572) talk at the [New York Open Statistical Programming Meetup](https://nyhackr.org/).
+- [TWIML Interview on Causal Models in Practice](https://twimlai.com/causal-models-in-practice-at-lyft-with-sean-taylor/) with [Sam Charrington](https://twitter.com/samcharrington).
+- [Interview on the Gradient Dissent Podcast](https://www.youtube.com/watch?v=ceCQh73dU98) with [Lukas Biewald](https://www.linkedin.com/in/lbiewald/).
 - [Learning Bayesian Statistics Podcast](https://www.learnbayesstats.com/episode/37-prophet-time-series-causal-inference-sean-taylor) episode with [Alex Andorra](https://twitter.com/alex_andorra).
 - [My Keynote](https://www.youtube.com/watch?v=oTeygIetj34) entitled "In Defense of Curve Fitting" at the [2020 Causal Data Science Meeting](https://causalscience.org/)
 - [A short talk about Prophet](https://www.youtube.com/watch?v=pOYAXv15r3A)
@@ -51,6 +54,7 @@ Here are some useful links:
 
 Here are some data science posts I've written:
 
+- [A Personal Retrospective on Prophet](https://medium.com/@seanjtaylor/a-personal-retrospective-on-prophet-f223c2378985)
 - [Bringing more causality to data science](https://motifanalytics.medium.com/bringing-more-causality-to-analytics-d378108bb15)
 - [Locally Optimal](https://notes.causal.engineering/archive/locally-optimal/)
 - [Designing and Evaluating Metrics](https://medium.com/@seanjtaylor/designing-and-evaluating-metrics-5902ad6873bf)
